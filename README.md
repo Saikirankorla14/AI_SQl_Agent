@@ -1,7 +1,7 @@
 # AI SQL Agent
 
 Ask your database questions in plain English. Powered by **Groq** (Llama 3.3 70B) + **SQLAlchemy** + **Plotly**.
-
+I have used PostgreSQl 
 ## Features
 - Natural language → SQL via Groq LLM
 - Plain-English query explanation before execution
